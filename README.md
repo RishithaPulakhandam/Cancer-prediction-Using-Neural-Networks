@@ -145,5 +145,5 @@ Together, these curves confirm that the neural network converges effectively and
 
 ## Author
 
-**Rishitha Pulakhandam**
+**Rishitha Pulakhandam** <br>
 Bioinformatics | Machine Learning | Genomics
